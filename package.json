@@ -41,7 +41,7 @@
     "babel-preset-env": "1.7.0",
     "babel-preset-stage-1": "6.24.1",
     "cypress": "3.8.1",
-    "jest": "24.9.0",
+    "jest": "23.5.0",
     "jest-fetch-mock": "2.1.1",
     "json-loader": "0.5.7",
     "mocha": "5.2.0",
